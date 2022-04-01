@@ -1,3 +1,4 @@
-﻿  glad.c
-  Main.cpp
+﻿  Main.cpp
+C:\Users\dnidy\source\repos\TestOpengl\TestOpengl\Main.cpp(39,31): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\dnidy\source\repos\TestOpengl\TestOpengl\Main.cpp(39,31): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
   TestOpengl.vcxproj -> C:\Users\dnidy\source\repos\TestOpengl\x64\Debug\TestOpengl.exe
